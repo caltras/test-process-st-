@@ -1,0 +1,10 @@
+{
+  "name": "process-street-claudio",
+  "version": "0.0.1",
+  "description": "Process street",
+  "main": "./index.html",
+  "dependencies": {
+  },
+  "devDependencies": {
+ }
+}
