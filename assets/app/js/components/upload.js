@@ -37,7 +37,7 @@
     }];
     
     var uploadComponent = {
-        templateUrl : '/assets/app/js/components/upload.html',
+        templateUrl : '../assets/app/js/components/upload.html',
         controller : UploadController
     };
 
